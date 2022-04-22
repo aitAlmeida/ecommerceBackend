@@ -68,9 +68,6 @@ const Sidebar = () => {
                        <li className="sidebarListItem">
                            <MailOutline className='sidebarIcon'/>
                            Mail
-                       </li><li className="sidebarListItem">
-                           <MailOutline className='sidebarIcon'/>
-                           Mail
                        </li>
                        <li className="sidebarListItem">
                            <DynamicFeed className='sidebarIcon'/>
