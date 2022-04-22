@@ -11,18 +11,18 @@ import {
     DynamicFeed,
     ChatBubbleOutline,
     WorkOutline,
-    Report,
-} from '@material-ui/icons';
+    Report } from '@material-ui/icons';
 import { Link } from "react-router-dom";
+import "./sidebar.css";
 
 const Sidebar = () => {
     return (
         <div className='sidebar'>
            <div className="sidebarWrapper">
-               <div className="sidebarMenu">
-                   <h3 className="sidebarTitlte">Dashboard</h3>
+                <div className="sidebarMenu">
+                   <h3 className="sidebarTitle">Dashboard</h3>
                    <ul className="sidebarList">
-                       <Link>
+                       <Link to="/">
                         <li className="sidebarListItem">
                             <LineStyle className='sidebarIcon'/>
                             Home
