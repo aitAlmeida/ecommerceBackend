@@ -1,10 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
 import "./topbar.css";
 import {NotificationsNone, Language, Settings} from "@material-ui/icons"
 
 const Topbar = () => {
+
+
     return (
-        <div className='topbar'>
+            <div className='topbar'>
             <div className='topbarWrapper'>
                 <div className='topLeft'>
                     <span className='logo'>shadoAdmin</span>
@@ -21,10 +23,13 @@ const Topbar = () => {
                    <div className="topbarIconContainer">
                        <Settings/>
                    </div>
+                   <div className="topbarIconContainer">
+                  
+                   </div>
                    <img src='' alt='' className='topAvatar'/>
                 </div>
             </div>
-        </div>
+        </div>        
     );
 };
 
