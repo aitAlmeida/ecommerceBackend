@@ -18,7 +18,7 @@ const WidgetLg = () => {
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
                         <img
-                            src=""
+                            src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500"
                             alt=''
                             className='widgetLgImg'
                         />
@@ -33,7 +33,7 @@ const WidgetLg = () => {
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
                         <img
-                            src=""
+                            src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500"
                             alt=''
                             className='widgetLgImg'
                         />
@@ -48,7 +48,7 @@ const WidgetLg = () => {
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
                         <img
-                            src=""
+                            src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500"
                             alt=''
                             className='widgetLgImg'
                         />
@@ -63,7 +63,7 @@ const WidgetLg = () => {
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
                         <img
-                            src=""
+                            src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500"
                             alt=''
                             className='widgetLgImg'
                         />
@@ -78,7 +78,7 @@ const WidgetLg = () => {
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
                         <img
-                            src=""
+                            src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500"
                             alt=''
                             className='widgetLgImg'
                         />
