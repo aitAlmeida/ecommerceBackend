@@ -26,9 +26,7 @@ function App() {
             <Route path='/products' element={<ProductList/>}/> 
             <Route path='/product/:producId' element={<Product/>}/> 
             <Route path='/newProduct' element={<NewProduct/>}/> 
-
-          </Routes>
-          
+          </Routes> 
         </div>
     </BrowserRouter>
   );
